@@ -111,6 +111,9 @@ Shopmate
 
 ## Demo.gif 🌟
 
+![Image](https://github.com/user-attachments/assets/6c62f5ab-08a1-472c-9cec-2e4d4be2a374) 
+
+
 ## Contributing 🤝
 We welcome contributions! 🚀 If you’d like to contribute:
 1. **Fork** this repository.
