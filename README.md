@@ -89,7 +89,7 @@ Follow these steps to run the project locally:
 
 ---
 
-## ✅ Functionalities
+## 🧩 Functionalities
 
 - 📦 View list of products
 - 🛒 Add products to shopping cart
@@ -105,7 +105,6 @@ Linga Bhavana – Frontend Developer
 GitHub | urstrulybhavana1432@gmail.com
 
 ---
-
 
 📬 **Contact**
 
